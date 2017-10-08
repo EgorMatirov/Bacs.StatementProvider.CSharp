@@ -1,6 +1,0 @@
-[submodule "Bacs.StatementProvider.Protocols/protos/statement_provider"]
-	path = Bacs.StatementProvider.Protocols/protos/statement_provider
-	url = https://github.com/bacsorg/statement_provider
-[submodule "Bacs.StatementProvider.Protocols/protos/problem"]
-	path = Bacs.StatementProvider.Protocols/protos/problem
-	url = https://github.com/bacsorg/problem

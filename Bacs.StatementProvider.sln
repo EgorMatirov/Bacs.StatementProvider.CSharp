@@ -5,8 +5,6 @@ VisualStudioVersion = 12.0.0.0
 MinimumVisualStudioVersion = 10.0.0.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bacs.StatementProvider", "Bacs.StatementProvider\Bacs.StatementProvider.csproj", "{69434B0A-2954-457B-B2F2-4B4871CCAE5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bacs.StatementProvider.Protocols", "Bacs.StatementProvider.Protocols\Bacs.StatementProvider.Protocols.csproj", "{1426EE18-3E3A-471F-AA0D-40268A1575A4}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{69434B0A-2954-457B-B2F2-4B4871CCAE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69434B0A-2954-457B-B2F2-4B4871CCAE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69434B0A-2954-457B-B2F2-4B4871CCAE5B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1426EE18-3E3A-471F-AA0D-40268A1575A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1426EE18-3E3A-471F-AA0D-40268A1575A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1426EE18-3E3A-471F-AA0D-40268A1575A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1426EE18-3E3A-471F-AA0D-40268A1575A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
